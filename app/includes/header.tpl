@@ -3,18 +3,18 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>PayCoinWallet.com</title>
-<meta property="og:title" content="PayCoinWallet.com: Your Key to Ethereum">
-<meta property="og:site_name" content="PayCoinWallet.com: Your Key to Ethereum">
-<meta name="twitter:title" content="PayCoinWallet.com: Your Key to Ethereum">
-<meta name="apple-mobile-web-app-title" content="PayCoinWallet.com: Your Key to Ethereum">
-<link href="https://www.PayCoinWallet.com" rel="canonical">
-<meta content="https://www.PayCoinWallet.com" property="og:url">
-<meta content="https://www.PayCoinWallet.com" name="twitter:url">
+<title>4CWallet.com</title>
+<meta property="og:title" content="4CWallet.com: Your Key to Ethereum">
+<meta property="og:site_name" content="4CWallet.com: Your Key to Ethereum">
+<meta name="twitter:title" content="4CWallet.com: Your Key to Ethereum">
+<meta name="apple-mobile-web-app-title" content="4CWallet.com: Your Key to Ethereum">
+<link href="https://www.4CWallet.com" rel="canonical">
+<meta content="https://www.4CWallet.com" property="og:url">
+<meta content="https://www.4CWallet.com" name="twitter:url">
 <link rel="stylesheet" href="css/etherwallet-master.min.css">
 <script type="text/javascript" src="js/etherwallet-static.min.js"></script>
 <script type="text/javascript" src="js/etherwallet-master.js"></script>
-<meta name="description" content="PayCoinWallet (MEW) is a free, open-source, client-side interface for generating Ethereum wallets & more. Interact with the Ethereum blockchain easily & securely.">
+<meta name="description" content="4CWallet (MEW) is a free, open-source, client-side interface for generating Ethereum wallets & more. Interact with the Ethereum blockchain easily & securely.">
 <meta property="og:description"  content="Free, open-source, client-side Ethereum wallet. Enabling you to interact with the blockchain easily & securely.">
 <meta name="twitter:description" content="Free, open-source, client-side Ethereum wallet. Enabling you to interact with the blockchain easily & securely.">
 <meta name="robots" content="index,follow">
@@ -26,13 +26,13 @@
 <link href="images/fav/manifest.json" rel="manifest">
 <link href="images/fav/safari-pinned-tab.svg" rel="mask-icon" color="#2f99b0">
 <link href="images/fav/apple-touch-icon.png" rel="shortcut icon">
-<meta name="apple-mobile-web-app-title" content="PayCoinWallet &middot; Your Key to Ethereum">
-<meta name="application-name" content="PayCoinWallet">
+<meta name="apple-mobile-web-app-title" content="4CWallet &middot; Your Key to Ethereum">
+<meta name="application-name" content="4CWallet">
 <meta name="msapplication-config" content="images/fav/browserconfig.xml">
 <meta name="theme-color" content="#1d6986">
 <meta name="apple-mobile-web-app-status-bar-style" content="#1d6986">
-<meta property="og:url" content="https://www.PayCoinWallet.com" />
-<meta property="og:title" content="PayCoinWallet.com  &middot; Your Key to Ethereum" />
+<meta property="og:url" content="https://www.4CWallet.com" />
+<meta property="og:title" content="4CWallet.com  &middot; Your Key to Ethereum" />
 <meta property="og:type" content="website">
 <meta property="og:image" content="/images/myetherwallet-logo-banner.png" />
 <meta property="og:image" content="/images/myetherwallet-logo.png" />
@@ -46,27 +46,27 @@
 {
 "@context": "http://schema.org",
 "@type" : "Organization",
-"name" : "PayCoinwallet",
-"legalName" : "PayCoinwallet LLC",
-"url" : "https://www.PayCoinwallet.com/",
+"name" : "4Cwallet",
+"legalName" : "4Cwallet LLC",
+"url" : "https://www.4Cwallet.com/",
 "contactPoint" : [{
   "@type" : "ContactPoint",
-  "email" : "support@PayCoinwallet.com",
-  "url"   : "https://PayCoinwallet.com",
+  "email" : "support@4Cwallet.com",
+  "url"   : "https://4Cwallet.com",
   "contactType" : "customer service"
 }],
-"logo" : "https://www.PayCoinwallet.com/images/PayCoinwallet-logo.png",
-"description": "PayCoinwallet.com is a free, open-source, client-side interface for generating Ethereum wallets &amp; more. Interact with the Ethereum blockchain easily &amp; securely.",
+"logo" : "https://www.4Cwallet.com/images/4Cwallet-logo.png",
+"description": "4Cwallet.com is a free, open-source, client-side interface for generating Ethereum wallets &amp; more. Interact with the Ethereum blockchain easily &amp; securely.",
 "sameAs" : [
-  "https://www.PayCoinwallet.com/",
-  "https://chrome.google.com/webstore/detail/PayCoinwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm",
-  "https://www.facebook.com/PayCoinwallet/",
-  "https://twitter.com/PayCoinwallet",
-  "https://medium.com/@PayCoinwallet",
-  "https://PayCoinwallet.github.io/knowledge-base/",
+  "https://www.4Cwallet.com/",
+  "https://chrome.google.com/webstore/detail/4Cwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm",
+  "https://www.facebook.com/4Cwallet/",
+  "https://twitter.com/4Cwallet",
+  "https://medium.com/@4Cwallet",
+  "https://4Cwallet.github.io/knowledge-base/",
   "https://github.com/kvhnuke/etherwallet",
-  "https://github.com/PayCoinwallet",
-  "https://kvhnuke.github.io/etherwallet/","https://PayCoinwallet.slack.com/"
+  "https://github.com/4Cwallet",
+  "https://kvhnuke.github.io/etherwallet/","https://4Cwallet.slack.com/"
 ]
 }
 </script>
@@ -80,12 +80,12 @@
     <div class="container">
       DON'T GET PHISHED, please! 🎣 Thank you! 🤗
       <br />
-      1. BOOKMARK <a href="https://www.PayCoinWallet.com"> PayCoinWALLET.COM </a>
+      1. BOOKMARK <a href="https://www.4CWallet.com"> 4CWALLET.COM </a>
       <span class="hidden-xs">
         &nbsp;&nbsp;&nbsp;&nbsp;
         2. INSTALL <a href="https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn" target="_blank" rel="noopener noreferrer">EAL</a>
         or
-        <a href="https://PayCoinWallet.github.io/knowledge-base/migration/moving-from-private-key-to-metamask.html" target="_blank" rel="noopener noreferrer">MetaMask</a>
+        <a href="https://4CWallet.github.io/knowledge-base/migration/moving-from-private-key-to-metamask.html" target="_blank" rel="noopener noreferrer">MetaMask</a>
         or
         <a href="https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige" target="_blank" rel="noopener noreferrer">Cryptonite</a>
       </span>
